@@ -1,11 +1,15 @@
 ## 运行demo
 1.安装依赖
+```shell
 bundle
+```
 
 2.运行demo
+```shell
 ruby main.rb
+```
 
-3.访问demo
+3.访问demo  
 <http://localhost:4567/>
 
 ## 接入流程
